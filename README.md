@@ -4,9 +4,9 @@ All commands short descriptions: https://tldr.sh/
 
 Current reading: **The Linux Commands Handbook** by Flavio Copes
 
-Try to learn core commands that you will use 90% of the time.
+Learn core commands that are used 90% of the time.
 
-Here are some of the most commonly used and essential Bash commands:
+Some of the most common and essential Bash commands:
 
 1. `pwd` (Print Working Directory): Shows your current directory.
 2. `ls` (List): Lists the files and directories in the current directory.
@@ -34,7 +34,7 @@ Here are some of the most commonly used and essential Bash commands:
 24. `df` (Disk Free): Displays disk space usage.
 25. `du` (Disk Usage): Shows directory sizes.
 
-These are just a few of the fundamental Bash commands. To learn more about each command and its options,
+To learn more about each command and its options,
 you can use the manual pages by running `man` followed by the command name, e.g., `man ls` for information on the `ls` command.
 Additionally, you can use the `--help` option with many commands to see a brief list of available options and how to use them, e.g., `ls --help`.
 
